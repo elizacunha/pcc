@@ -1,0 +1,6 @@
+Este é um arquivo de exemplo que iremos alterar enquanto estudamos a ferramenta Git.
+
+Ela é uma boa ferramenta para controle de versões de software e também de arquivos de documentação gerais.
+
+Iremos aprender um pouco sobre branches locais e remotos, merges, o número SHA1 ...
+
